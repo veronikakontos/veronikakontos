@@ -1,4 +1,6 @@
 ### Hi there! My name is Veronika
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=veronikakontos&theme=radical)](https://git.io/streak-stats)
 ![](github.jpeg)
 
 ### ABOUT ME

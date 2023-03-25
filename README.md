@@ -2,7 +2,7 @@
 
 ![](github.jpeg)
 
-### ABOUT ME
+## ABOUT ME
 
 #### I'm a Full-stack Developer who is passionate about programing and coding, creating technology to elevate people, share ideas and building commmunity. 
 #### My favorites technologies I have been working with include ​[Python, JavaScript, Java, SQL, HTML5, CSS]​

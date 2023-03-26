@@ -6,7 +6,7 @@
 
 #### I'm a Full-Stack Developer passionate about programing and coding, creating technology to elevate people, share ideas and building commmunity. My favorites technologies I have been working with include ​[Python, JavaScript, Java, SQL, HTML5, CSS]​
 ##### I am ready and excited to excel my skills to the next level with knowledge and experiences with frameworks and libraries such as 
-#### [Django, Flask, NodeJS, ReactJS, ExpressJS, MongooseJS, Spring Boot, AngularJS, jQuery, Bootstrap] Databases [MySQL, MongoDB] 
+- [Django, Flask, NodeJS, ReactJS, ExpressJS, MongooseJS, Spring Boot, AngularJS, jQuery, Bootstrap] Databases [MySQL, MongoDB] 
 My interest in coding led me to start a new carrer and open doors to a new opportunities I wish for!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=veronikakontos&theme=blood)](https://git.io/streak-stats)

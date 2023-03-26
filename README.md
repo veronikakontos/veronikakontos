@@ -9,9 +9,7 @@
 ##### I am ready and excited to excel my skills to the next level with knowledge and experiences with frameworks and libraries such as 
 #### [Django, Flask, NodeJS, ReactJS, ExpressJS, MongooseJS, Spring Boot, AngularJS, jQuery, Bootstrap] Databases [MySQL, MongoDB] 
 My interest in coding led me to start a new carrer and open doors to a new opportunities I wish for!
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=veronikakontos&theme=blood)](https://git.io/streak-stats)
-
 ### Fun facts
 - I love traveling, visiting countries, exploring cities and learning about their cultures.
 - I am animal lover! My favorite animal is cat ( I own 2 beautiful Maine-Coons ♡).

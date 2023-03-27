@@ -14,7 +14,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=veronikakontos&theme=blue-green)](https://git.io/streak-stats)
 ### Fun facts
 - I love traveling, visiting countries, exploring cities and learning about their cultures.
-- I am animal lover! My favorite animal is cat ( I own 2 beautiful Maine-Coons ♡).
+- I am animal lover! My favorite animal is cat. ( I own 2 beautiful Maine-Coons ♡).
 - I like flowers and makes me happy to take care of my garden.
 - I love to learn new stuff either is a new language or new cooking dish or handy stuff around the house..
 

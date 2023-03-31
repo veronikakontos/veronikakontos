@@ -4,7 +4,7 @@
 
 ## ABOUT ME:
 
-#### I'm a Full-Stack Developer passionate about programing and coding, creating technology to elevate people, share ideas and building commmunity. My favorites technologies I have been working with include ​[Python, JavaScript, Java, SQL, HTML5, CSS]​
+#### I'm a Full-Stack Developer passionate about programming and coding, creating technology to elevate people, sharing ideas, and building community.  My favorites technologies I have been working with include [Python, JavaScript, Java, SQL, HTML5, CSS]​
 #### I am ready and excited to excel my skills to the next level with knowledge and experiences with frameworks and libraries such as 
 - [Django, Flask, NodeJS, ReactJS, ExpressJS, MongooseJS, Spring Boot, Hibernate, AngularJS, jQuery, Bootstrap]
 - Databases [MySQL, MongoDB] 
@@ -13,10 +13,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=veronikakontos&theme=blue-green)](https://git.io/streak-stats)
 ### Fun facts:
-- I love traveling, visiting countries, exploring cities and learning about their cultures.
-- I am animal lover! My favorite animal is cat. ( I own 2 beautiful Maine-Coons ♡).
-- I like flowers and makes me happy to take care of my garden.
-- Makes me happy to learn new stuff either is a new language or new cooking dish or handy stuff around the house.
+- I love traveling, visiting countries, exploring cities, and learning about their cultures.
+- I am an animal lover! My favorite animal is a cat. ( I own two  beautiful Maine-Coons ♡)
+- I like flowers, it makes me happy to take care of my garden.
+- Make me happy to learn new stuff either is it a new language, a new cooking dish, or handy stuff around the house.
 
 
 

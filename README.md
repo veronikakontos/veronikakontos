@@ -9,7 +9,7 @@
 - [Django, Flask, NodeJS, ReactJS, ExpressJS, MongooseJS, Spring Boot, Hibernate, AngularJS, jQuery, Bootstrap]
 - Databases [MySQL, MongoDB] 
 
-#### My interest in coding led me to start a new carrer and open doors to a new opportunities I wish for!
+#### My interest in coding led me to start a new career and open doors to new opportunities I wish for!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=veronikakontos&theme=blue-green)](https://git.io/streak-stats)
 ### Fun facts:

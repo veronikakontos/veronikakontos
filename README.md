@@ -12,7 +12,7 @@
 #### My interest in coding led me to start a new carrer and open doors to a new opportunities I wish for!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=veronikakontos&theme=blue-green)](https://git.io/streak-stats)
-### Fun facts
+### Fun facts:
 - I love traveling, visiting countries, exploring cities and learning about their cultures.
 - I am animal lover! My favorite animal is cat. ( I own 2 beautiful Maine-Coons ♡).
 - I like flowers and makes me happy to take care of my garden.

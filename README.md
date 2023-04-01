@@ -6,8 +6,8 @@
 
 #### I'm a Full-Stack Developer passionate about programming and coding, creating technology to elevate people, sharing ideas, and building community.  My favorites technologies I have been working with include [Python, JavaScript, Java, SQL, HTML5, CSS]​
 #### I am ready and excited to excel my skills to the next level with knowledge and experiences with frameworks and libraries such as 
-- [Django, Flask, NodeJS, ReactJS, ExpressJS, MongooseJS, Spring Boot, Hibernate, AngularJS, jQuery, Bootstrap]
-- Databases [MySQL, MongoDB] 
+- Django, Flask, NodeJS, ReactJS, ExpressJS, MongooseJS, Spring Boot, Hibernate, AngularJS, jQuery, Bootstrap
+- Databases MySQL, MongoDB
 
 #### My interest in coding led me to start a new career and open doors to new opportunities I wish for!
 

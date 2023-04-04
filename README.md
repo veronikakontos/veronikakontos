@@ -9,8 +9,6 @@
 - Django, Flask, NodeJS, ReactJS, ExpressJS, MongooseJS, Spring Boot, Hibernate, AngularJS, Typescript, jQuery, Bootstrap
 - Databases MySQL, MongoDB
 
-#### My interest in coding led me to start a new career and open doors to new opportunities I am excited about
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=veronikakontos&theme=blue-green)](https://git.io/streak-stats)
 ### Fun facts:
 - I love traveling, visiting countries, exploring cities, and learning about their cultures.

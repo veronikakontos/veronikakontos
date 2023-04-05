@@ -1,4 +1,4 @@
-## Hi, my name is Veronika Kontos
+## Hi, my name is Veronika 
 
 ![](github.jpeg)
 

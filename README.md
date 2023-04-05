@@ -14,7 +14,7 @@
 - I love traveling, visiting countries, exploring cities, and learning about their cultures.
 - I am an animal lover! My favorite animal is a cat. ( I own two  beautiful Maine-Coons ♡)
 - I like flowers, it makes me happy to take care of my garden.
-- Make me happy to learn new stuff either is it a new language, a new cooking dish, or handy stuff around the house.
+- Make me happy to learn new stuff either is it a new language, a new cooking dish, or handy stuff around the house
 
 
 

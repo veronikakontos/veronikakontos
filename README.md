@@ -1,7 +1,5 @@
 ## Hi, my name is Veronika
 
-
-      
         
 ![](github.jpeg).
   

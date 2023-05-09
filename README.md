@@ -16,7 +16,7 @@
 ### Fun facts:
 - I love traveling, visiting countries, exploring cities, and learning about their cultures.
 - I am an animal lover! My favorite animal is a cat. ( I own two  beautiful Maine-Coons ♡)
-- I like flowers, it makes me happy to take care of my garden.
+
 
 <!--
 **veronikakontos/veronikakontos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

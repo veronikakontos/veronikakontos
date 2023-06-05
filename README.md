@@ -1,4 +1,4 @@
-## Hi, my name is Veronika 
+## Hi, I am Veronika 
 
 
    

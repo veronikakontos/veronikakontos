@@ -17,6 +17,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=veronikakontos&theme=blue-green)](https://git.io/streak-stats)
 
 ### Fun facts:
+
 - I love traveling, visiting countries, exploring cities, and learning about their cultures.
 - I am an animal lover! My favorite animal is a cat. ( I own two  beautiful Maine-Coons ♡)
 

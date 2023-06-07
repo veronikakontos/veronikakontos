@@ -1,4 +1,4 @@
-## Hi, I am Veronika  d
+## Hi, I am Veronika
 ![](github.jpeg)
   
 # ABOUT ME:  

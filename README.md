@@ -1,4 +1,4 @@
-## Hi, I am Veronika
+## Hi, I am Veronika and I am FULL STRACK DEVELOPER
 ![](github.jpeg)
   
 # ABOUT ME:  

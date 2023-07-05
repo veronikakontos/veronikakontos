@@ -1,4 +1,5 @@
-## Hi, I am Veronika and I am FULL STRACK DEVELOPER
+## Hi, I am Veronika and I am FULL STRACK DEVELOPER. I have UPWORK account and work with senior developers, if you need anything, reach out to me!
+
 ![](github.jpeg)
 
 # ABOUT ME:  

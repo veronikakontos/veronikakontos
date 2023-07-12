@@ -3,6 +3,7 @@
 
 ![](github.jpeg)
 
+
 # ABOUT ME:  
 
 #### I'm a Full-Stack Developer passionate about programming and coding, creating technology to elevate people, sharing ideas, and building community.  My favorite technologies I have been working with include Python, JavaScript, Java, SQL, HTML5, CSS, and Kubernetes

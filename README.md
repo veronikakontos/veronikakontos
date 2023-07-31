@@ -2,7 +2,7 @@
 ## I have a UPWORK account and work together with senior developers with over decades of experience. If you need help and looking for professionals who can deliver successful jobs on time and the way you need it, you found the right person. Send me a message, I will get back to you soon.
 ![](github.jpeg)
 
-# ABOUT ME:  
+# ABOUT ME: 
 
 
 #### I'm a Full-Stack Developer passionate about programming and coding, creating technology to elevate people, sharing ideas, and building community.  My favorite technologies I have been working with include Python, JavaScript, Java, SQL, HTML5, CSS, and Kubernetes

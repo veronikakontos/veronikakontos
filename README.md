@@ -1,5 +1,5 @@
 ## Hi, I am Veronika and I am a FULL STACK DEVELOPER. 
-## I have a UPWORK account. If you need help and looking for professionals who can deliver successful jobs on time and the way you need it, you found the right person. Send me a message or email, I will get back to you soon.
+## I have a UPWORK account. If you need help and looking for a professional who can deliver successful jobs on time and the way you need it, you found the right person. Send me a message or email, I will get back to you soon.
 ![](github.jpeg)
 
 # ABOUT ME: 

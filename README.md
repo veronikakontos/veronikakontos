@@ -19,7 +19,6 @@
 - I am an animal lover! My favorite animal is a cat. ( I own two  beautiful Maine-Coons ♡)
 
 
-
 <!--
 **veronikakontos/veronikakontos** is a ✨ _special_ ✨  `README.md` (this file) appears on your GitHub profile.
 

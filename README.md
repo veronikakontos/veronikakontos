@@ -8,7 +8,8 @@
 #### I am ready and excited to excel my skills to the next level with knowledge and experiences with frameworks and libraries such as  
 - Django, Flask, NodeJS, ReactJS, ExpressJS, MongooseJS, Spring Boot, Hibernate, AngularJS, Typescript, jQuery, Bootstrap
 - Databases MySQL, MongoDB
-- 
+
+  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=veronikakontos&theme=blue-green)](https://git.io/streak-stats)
 

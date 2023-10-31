@@ -2,7 +2,6 @@
 ## I have a UPWORK account. If you need help and looking for a professional who can deliver successful jobs on time and the way you need it, you found the right person. Send me a message or email, and I will reply soon.
 ![](github.jpeg)
 
-
 # ABOUT ME: 
 
 

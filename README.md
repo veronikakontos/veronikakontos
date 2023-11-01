@@ -24,6 +24,7 @@
 **veronikakontos/veronikakontos** is a ✨ _special_ ✨  `README.md` (this file) appears on your GitHub profile.
 
 
+
 ### I'm a full-stack Developer who is truly passionate about making open-source accessible, creating technology to elevate people, sharing ideas, and building community. My favorite technologies/languages I have been working with include ReactJS, MySql, Flask, MongoDB, and Spring... I am ready and excited to excel my skills to the next level with knowledge and experience with HTML5, CSS, Python, Java, MERN (mongo, express, react, node.js), and more libraries and frameworks such as STS, MongoDB, Mongoose, Bootstrap, JSP, DOM, AWS, Oracle SQL, Postman.
 
 

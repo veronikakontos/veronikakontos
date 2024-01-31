@@ -1,5 +1,5 @@
-## Hi, My name is Veronika and I am a FULL STACK DEVELOPER and Web-designer.
-## I have a UPWORK account. If you need help and looking for a professional who can deliver successful results on time in a unique way, you found the right person. Send me a message or email, and I get back to you as soon as possible!
+## Hi, My name is Veronika, and I am a FULL STACK DEVELOPER and Web-designer.
+## If you need help and looking for a professional who can deliver successful results on time in a unique way, you found the right person. Send me a message or email, and I get back to you as soon as possible!
 ![](github.jpeg)
 
 # ABOUT ME: 

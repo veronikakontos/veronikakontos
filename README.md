@@ -1,4 +1,4 @@
-## Hi, My name is Veronika,
+## Hi, My name is Veronika 
 # I am a highly skilled full-stack developer with a rich and diverse background in crafting digital solutions. My expertise extends across various platforms, notably excelling in the dynamic realms of HubSpot, Squarespace, and WordPress. With a keen eye for design and an in-depth understanding of the intricacies of these platforms, I bring a unique blend of technical proficiency and creative flair to every project.
 ![](github.jpeg)
 
